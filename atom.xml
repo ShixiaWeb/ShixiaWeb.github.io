@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ShixiaWeb.github.io</id>
     <title>拾夏聚合</title>
-    <updated>2020-07-27T17:36:17.202Z</updated>
+    <updated>2020-07-27T17:38:35.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ShixiaWeb.github.io"/>
     <link rel="self" href="https://ShixiaWeb.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://ShixiaWeb.github.io/images/avatar.png</logo>
     <icon>https://ShixiaWeb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 拾夏聚合</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://ShixiaWeb.github.io/post/about/</id>
+        <link href="https://ShixiaWeb.github.io/post/about/">
+        </link>
+        <updated>2020-08-27T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<h3 id="拾夏新闻聚合网旨在将新闻事件按照时间线串联起来展示新闻事件发展的全过程-我们相信互联网也许会健忘但是数据不会">拾夏新闻聚合网，旨在将新闻事件按照时间线串联起来，展示新闻事件发展的全过程。我们相信，互联网也许会健忘，但是数据不会。</h3>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<h3 id="ze_siping-鸽学院-本科在读">Ze_Siping 鸽学院 本科在读</h3>
+<h2 id="联系方式">📬 联系方式</h2>
+<h3 id="ze_siping126com">Ze_Siping@126.com</h3>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中美大使馆风波]]></title>
         <id>https://ShixiaWeb.github.io/post/zhong-mei-da-shi-guan-feng-bo/</id>
@@ -57,55 +74,6 @@
 <li>10时，美国驻成都总领事馆闭馆。</li>
 <li>闭馆后，中方主管部门从正门进入，实行接管。</li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://ShixiaWeb.github.io/post/about/</id>
-        <link href="https://ShixiaWeb.github.io/post/about/">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<h3 id="拾夏新闻聚合网旨在将新闻事件按照时间线串联起来展示新闻事件发展的全过程-我们相信互联网也许会健忘但是数据不会">拾夏新闻聚合网，旨在将新闻事件按照时间线串联起来，展示新闻事件发展的全过程。我们相信，互联网也许会健忘，但是数据不会。</h3>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<h3 id="ze_siping-鸽学院-本科在读">Ze_Siping 鸽学院 本科在读</h3>
-<h2 id="联系方式">📬 联系方式</h2>
-<h3 id="ze_siping126com">Ze_Siping@126.com</h3>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://ShixiaWeb.github.io/post/hello-gridea/</id>
-        <link href="https://ShixiaWeb.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
